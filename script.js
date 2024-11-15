@@ -1,4 +1,4 @@
-let max = 10;
+let max = 50;
 let checkPlayer = false;
 let player = 1;
 
